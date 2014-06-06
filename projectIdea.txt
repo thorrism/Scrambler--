@@ -1,8 +1,0 @@
-Me and Jeremy Klein will be working together and we want to prioritize in doing code obfuscation with a mix of Code quality as well.
-The idea of taking code metrics as data and then obfuscating the code sounds fun. It will be minimal metrics such as # of lines of code, percentage of commenting per
-line of code that is non-commented, and finding complexity of all the functions. The obfuscation would be a simple Caesar cipher, or date cipher from last terms CIS330 class.
-This would also be minimal as we want to start with just obfuscating the comments and function names before changing the code itself. So just ciphering comments and parameters 
-sounds fun, it hides the codes purpose.
-
-http://rosecompiler.org/ROSE_HTML_Reference/attach__all__info_8h-source.html
-This class might be helpful in removing comments. In particular, look at the display method. 
